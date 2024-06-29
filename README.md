@@ -12,6 +12,13 @@ Some technologies used:
 
 - Selenium
 - Beautiful Soup
+- PyMuPDF
+- BERTopic
+- NetworkX
+- UMAP
+- HDBSCAN
+- Scikit Learn
+- Matplotlib
 
 To see the project in action, open and run the notebooks.
 
