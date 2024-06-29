@@ -11,7 +11,6 @@
 Some technologies used:
 
 - Selenium
-- Beautiful Soup
 - PyMuPDF
 - BERTopic
 - NetworkX
